@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\umutproje\\filmkiralama\\kiralananfilmlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kiralananfilmlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kiralananfilmlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kiralananfilmlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\sifredegistirmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:sifredegistirmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kullaniciyonetimpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kullaniciyonetimpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kullaniciprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kullaniciprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kiralamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kiralamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kiralamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|FilmKiralama.csproj|solutionrelative:kiralamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiralananFilmlerPanel.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralananFilmlerPanel.cs",
+              "RelativeDocumentMoniker": "KiralananFilmlerPanel.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralananFilmlerPanel.cs",
+              "RelativeToolTip": "KiralananFilmlerPanel.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwJ0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:37:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KiralananFilmlerPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralananFilmlerPanel.cs",
+              "RelativeDocumentMoniker": "KiralananFilmlerPanel.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\KiralananFilmlerPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\KiralananFilmlerPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kullaniciProfil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\kullaniciProfil.cs",
+              "RelativeDocumentMoniker": "kullaniciProfil.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\kullaniciProfil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\kullaniciProfil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:24.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KullaniciYonetimPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KullaniciYonetimPanel.cs",
+              "RelativeDocumentMoniker": "KullaniciYonetimPanel.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\KullaniciYonetimPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\KullaniciYonetimPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:29.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\loginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\loginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\registerForm.cs",
+              "RelativeDocumentMoniker": "registerForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\registerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\registerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:44.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sifreDegistirmeForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\sifreDegistirmeForm.cs",
+              "RelativeDocumentMoniker": "sifreDegistirmeForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\sifreDegistirmeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\sifreDegistirmeForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:51.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KiralamaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralamaForm.cs",
+              "RelativeDocumentMoniker": "KiralamaForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\KiralamaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\KiralamaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:11.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\AnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\AnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:28:04.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\FilmKiralama\\AdminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\FilmKiralama\\AdminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:26:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KiralamaForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralamaForm.cs",
+              "RelativeDocumentMoniker": "KiralamaForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\UmutProje\\FilmKiralama\\KiralamaForm.cs",
+              "RelativeToolTip": "KiralamaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:58:20.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
