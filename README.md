@@ -60,18 +60,28 @@ string connectionString = "Server=YOUR_SERVER_NAME;Database=FilmKiralama;Trusted
 ## 📸 Ekran Görüntüleri
 
 
-### 📤 Ekran Görüntüsü Yükleme ve Ekleme
-
-1. Proje klasöründe bir `screenshots` adında klasör oluşturun.  
-2. Uygulamadan aldığınız ekran görüntülerini bu klasöre ekleyin. Örneğin: `screenshots/ana-ekran.png`  
-3. `README.md` dosyasına aşağıdaki gibi ekleyin:
-
 ```markdown
-### Ana Ekran
-![Ana Ekran](screenshots/ana-ekran.png)
+### Giriş Ekranı
+![Ana Ekran](screenshots/login.png)
 
-### Film Ekleme Ekranı
-![Film Ekleme](screenshots/film-ekle.png)
+### Kiralık Filmler Ekranı
+![Kiralık Filmler](screenshots/homepage.png)
+
+### Film Kiralama Ekranı
+![Film Kiralama](screenshots/rent.png)
+
+### Kiralanan Filmi İptal Etme (Kullanıcı)
+![Kiralamayı İptal Etme](screenshots/user_rent_cancel.png)
+
+### Admin Paneli
+![Film Bilgilerini Görüntüleme Güncelleme](screenshots/admin_panel.png)
+
+### Admin Kullanıcı Yönetim Paneli
+![Kullanıcı Bilgilerini Görüntüleme Güncelleme](screenshots/admin_panel2.png)
+
+### Admin Kiralık Filmler Yönetim Paneli
+![Kiralık Filmleri Görüntüleme İptal Etme](screenshots/admin_rent_cancel.png)
+
 ```
 
 ---
