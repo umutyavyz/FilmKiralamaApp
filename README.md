@@ -59,8 +59,6 @@ string connectionString = "Server=YOUR_SERVER_NAME;Database=FilmKiralama;Trusted
 
 ## 📸 Ekran Görüntüleri
 
-
-```markdown
 ### Giriş Ekranı
 ![Ana Ekran](screenshots/login.png)
 
